@@ -15,4 +15,4 @@ pi = 5;
 3. 여러 단어를 연결하여 변수 이름을 만들 때 뒤에 단어는 대문자로 한다.
 예) userName, studenId, memberAddress...
 ==> camel case (낙타표기법)
-==> <상식> snake ca*/
+==> <상식> snake case*/
